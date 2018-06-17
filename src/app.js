@@ -10,7 +10,7 @@ import '../scss/site.scss';
 import LoginPage from './components/auth/LoginPage';
 
 render(
-  <Router history={browserHistory}>
+  <Router >
     <Route path="/" component={Layout}>
       <IndexRoute component={HomePage}/>
       <Route path="/about" component={AboutPage}/>

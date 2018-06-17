@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "sdw",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@okta/okta-signin-widget": "^2.3.0",
